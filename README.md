@@ -1,1 +1,1 @@
-# jquey
+# jquery
